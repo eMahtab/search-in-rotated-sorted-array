@@ -3,7 +3,7 @@
 
 
 
-# Implementation :
+# Implementation : O(logn)
 ```java
 class Solution {
     public int search(int[] nums, int target) {
